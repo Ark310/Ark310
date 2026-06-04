@@ -2,9 +2,10 @@
 <h3 align="center">Automation Builder · Desktop &amp; Web Developer · AI Tinkerer</h3>
 
 <p align="center">
-  <a href="mailto:abdulraqeeb310@gmail.com"><img src="https://img.shields.io/badge/Email-abdulraqeeb310@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/abdulraqeebkhatri"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:abdulraqeeb310@gmail.com"><img src="https://img.shields.io/badge/Email-Say_Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://github.com/Ark310/portfolio"><img src="https://img.shields.io/badge/📂_Portfolio-View-2ea44f?style=for-the-badge"></a>
-  <a href="https://github.com/Ark310/portfolio/tree/main/certifications"><img src="https://img.shields.io/badge/📜_Certifications-40-blue?style=for-the-badge"></a>
+  <a href="https://github.com/Ark310/portfolio/tree/main/certifications"><img src="https://img.shields.io/badge/📜_Certifications-42-blue?style=for-the-badge"></a>
 </p>
 
 ---
@@ -32,31 +33,57 @@ I build practical tools that **kill repetitive work** — browser automation, de
 
 ---
 
+### ⚡ What I Do
+
+- **Automate the boring** — Microsoft **Power Automate** workflows for data collection, reporting, file handling, and Teams alerting that erase repetitive manual work.
+- **Turn data into decisions** — dynamic dashboards & reporting pipelines (Power BI · Excel · pandas) that surface KPIs and priorities.
+- **Build with AI** — RAG pipelines, agentic workflows, and Claude Code plugins/skills that turn unstructured input into real deliverables.
+- **Support at scale, securely** — enterprise support for 250+ users with role-based access and audit-ready documentation.
+
+---
+
 ### 🛠️ Tech Toolbox
 
+**Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![C++](https://img.shields.io/badge/C/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Qt](https://img.shields.io/badge/PySide6_(Qt)-41CD52?style=flat-square&logo=qt&logoColor=white)
-
+**AI & Automation**
 ![Claude](https://img.shields.io/badge/Claude_/_RAG-D4A27F?style=flat-square&logo=anthropic&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F61?style=flat-square)
+![Copilot](https://img.shields.io/badge/Microsoft_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white)
+![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=flat-square&logo=powerautomate&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+
+**Web · Data · Cloud**
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+
+**Security & Tooling**
+![NIST](https://img.shields.io/badge/NIST_CSF_2.0-1f3a5f?style=flat-square)
+![ISO 27002](https://img.shields.io/badge/ISO_27002-005387?style=flat-square)
+![SIEM](https://img.shields.io/badge/SIEM-555555?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=flat-square&logo=jira&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
 ### 📜 Certifications
 
-**40 certificates** across **☁️ Cloud · 🤖 AI · 🔐 Security · 🌐 Networking** — including **AWS SimuLearn: Cloud Practitioner**, Anthropic's **Claude Code 101**, **Cisco Cybersecurity**, and **Ethical Hacking**.
+**42 credentials** across **☁️ Cloud · 🤖 AI · 🔐 Security · 🌐 Networking · ⚙️ Automation** — including **AWS SimuLearn: Cloud Practitioner**, Anthropic's **Claude Code 101**, **Microsoft Azure AZ-900**, **Google IT Automation with Python**, **Cisco Cybersecurity**, and **Ethical Hacking**.
 
 **[→ Browse the certification gallery](https://github.com/Ark310/portfolio/tree/main/certifications)**
 
