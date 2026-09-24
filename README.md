@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abdulraqeebkhatri"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:abdulraqeeb310@gmail.com"><img src="https://img.shields.io/badge/Email-Say_Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:abdulraqeebkhatri310@gmail.com"><img src="https://img.shields.io/badge/Email-Say_Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://github.com/Ark310/portfolio"><img src="https://img.shields.io/badge/📂_Portfolio-View-2ea44f?style=for-the-badge"></a>
   <a href="https://github.com/Ark310/portfolio/tree/main/certifications"><img src="https://img.shields.io/badge/📜_Certifications-42-blue?style=for-the-badge"></a>
 </p>
@@ -20,8 +20,13 @@ I build practical tools that **kill repetitive work** — browser automation, de
 
 ### 🚀 Featured Work
 
-🧠 **[Knowledge Base Assistant](https://github.com/Ark310/knowledge-base-assistant)** — a local **RAG pipeline** as two Windows desktop apps: a Playwright scraper + a PySide6 chatbot answering over your knowledge base with **verified citations and zero hallucinated links**.
-`Python` · `Playwright` · `ChromaDB` · `Claude` · `PySide6`
+🤖 **Shipping with AI:** 27 repos · 931 commits · 3,000+ passing tests in 2026, every commit co-authored with **Claude Code**.
+
+🧠 **[Knowledge Base Assistant](https://github.com/Ark310/knowledge-base-assistant)** — a **hybrid-RAG** desktop assistant (ChromaDB + BM25/RRF + CrossEncoder) over a scraped knowledge base and support tickets, with **verified citations**, PII redaction and an **on-prem Ollama** option. 361 commits, 791 tests.
+`Python` · `Playwright` · `ChromaDB` · `Claude` · `Ollama` · `PySide6`
+
+⏱️ **[Weekly Time Reports](https://github.com/Ark310/weekly-time-reports)**: replaced a hand-maintained timesheet workbook with a portal-driven desktop app; matched the legacy output 48/48 and ships with 783 tests.
+`PySide6` · `Playwright` · `openpyxl`
 
 👻 **[Observatory](https://github.com/Ark310/observatory)** *(fork)* — I extended this real-time AI-agent dashboard with **ghost session tracking, a sessions panel, and startup process scanning** (+4,139 lines, new test suites). Built on the excellent [sreyas-endor/observatory](https://github.com/sreyas-endor/observatory).
 `Bun` · `TypeScript` · `xterm.js`
@@ -29,7 +34,7 @@ I build practical tools that **kill repetitive work** — browser automation, de
 📊 **[Claude Sessions Tracker](https://github.com/Ark310/claude-sessions-tracker)** — a desktop dashboard for your Claude Code session history, token usage & costs.
 `CustomTkinter` · `SQLite` · `Matplotlib`
 
-> 👉 **[See all 13 projects in the portfolio →](https://github.com/Ark310/portfolio)**
+> 👉 **[See all 27+ projects in the portfolio →](https://github.com/Ark310/portfolio)**
 
 ---
 
@@ -56,6 +61,9 @@ I build practical tools that **kill repetitive work** — browser automation, de
 
 **AI & Automation**
 ![Claude](https://img.shields.io/badge/Claude_/_RAG-D4A27F?style=flat-square&logo=anthropic&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-412991?style=flat-square&logo=openai&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama_/_Local_LLMs-000000?style=flat-square&logo=ollama&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F61?style=flat-square)
 ![Copilot](https://img.shields.io/badge/Microsoft_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white)
 ![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=flat-square&logo=powerautomate&logoColor=white)
@@ -91,5 +99,5 @@ I build practical tools that **kill repetitive work** — browser automation, de
 
 <p align="center">
   <em>Always learning. Always shipping.</em> ✨<br>
-  📫 Reach me at <a href="mailto:abdulraqeeb310@gmail.com">abdulraqeeb310@gmail.com</a>
+  📫 Reach me at <a href="mailto:abdulraqeebkhatri310@gmail.com">abdulraqeebkhatri310@gmail.com</a>
 </p>
