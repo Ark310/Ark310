@@ -20,10 +20,13 @@ I build practical tools that **kill repetitive work** — browser automation, de
 
 ### 🚀 Featured Work
 
-🤖 **Shipping with AI:** 27 repos · 931 commits · 3,000+ passing tests in 2026, every commit co-authored with **Claude Code**.
+🤖 **Shipping with AI:** 28 repos · 1,022 commits · 3,300+ passing tests in 2026, every commit co-authored with **Claude Code**.
 
 🧠 **[Knowledge Base Assistant](https://github.com/Ark310/knowledge-base-assistant)** — a **hybrid-RAG** desktop assistant (ChromaDB + BM25/RRF + CrossEncoder) over a scraped knowledge base and support tickets, with **verified citations**, PII redaction and an **on-prem Ollama** option. 361 commits, 791 tests.
 `Python` · `Playwright` · `ChromaDB` · `Claude` · `Ollama` · `PySide6`
+
+🛡️ **[BLNS: Sanctions Screening RAG](https://github.com/Ark310/blns-sanctions-screening-rag)**: an offline compliance assistant on an 8 GB GPU that recommends FLAG / REVIEW / CLEAR for screening alerts with cited precedents. It began as a fine-tuned Qwen model and was re-architected as RAG, and the journey is documented.
+`Ollama` · `ChromaDB` · `FastAPI` · `.NET`
 
 ⏱️ **[Weekly Time Reports](https://github.com/Ark310/weekly-time-reports)**: replaced a hand-maintained timesheet workbook with a portal-driven desktop app; matched the legacy output 48/48 and ships with 783 tests.
 `PySide6` · `Playwright` · `openpyxl`
@@ -34,7 +37,7 @@ I build practical tools that **kill repetitive work** — browser automation, de
 📊 **[Claude Sessions Tracker](https://github.com/Ark310/claude-sessions-tracker)** — a desktop dashboard for your Claude Code session history, token usage & costs.
 `CustomTkinter` · `SQLite` · `Matplotlib`
 
-> 👉 **[See all 27+ projects in the portfolio →](https://github.com/Ark310/portfolio)**
+> 👉 **[See all 28+ projects in the portfolio →](https://github.com/Ark310/portfolio)**
 
 ---
 
