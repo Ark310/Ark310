@@ -20,7 +20,7 @@ I build practical tools that **kill repetitive work** — browser automation, de
 
 ### 🚀 Featured Work
 
-🤖 **Shipping with AI:** 28 repos · 1,022 commits · 3,300+ passing tests in 2026, every commit co-authored with **Claude Code**.
+🤖 **Shipping with AI:** 29 repos · 1,035 commits · 3,300+ passing tests in 2026, every commit co-authored with **Claude Code**.
 
 🧠 **[Knowledge Base Assistant](https://github.com/Ark310/knowledge-base-assistant)** — a **hybrid-RAG** desktop assistant (ChromaDB + BM25/RRF + CrossEncoder) over a scraped knowledge base and support tickets, with **verified citations**, PII redaction and an **on-prem Ollama** option. 361 commits, 791 tests.
 `Python` · `Playwright` · `ChromaDB` · `Claude` · `Ollama` · `PySide6`
@@ -37,7 +37,7 @@ I build practical tools that **kill repetitive work** — browser automation, de
 📊 **[Claude Sessions Tracker](https://github.com/Ark310/claude-sessions-tracker)** — a desktop dashboard for your Claude Code session history, token usage & costs.
 `CustomTkinter` · `SQLite` · `Matplotlib`
 
-> 👉 **[See all 28+ projects in the portfolio →](https://github.com/Ark310/portfolio)**
+> 👉 **[See all 29+ projects in the portfolio →](https://github.com/Ark310/portfolio)**
 
 ---
 
