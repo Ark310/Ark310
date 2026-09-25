@@ -7,12 +7,12 @@
 </p>
 
 <p align="center">
-  <a href="https://ark310.github.io"><img src="https://img.shields.io/badge/🌐_Interactive_Site-Explore-111111?style=for-the-badge"></a>
-  <a href="https://github.com/Ark310/portfolio"><img src="https://img.shields.io/badge/📂_Portfolio-32_Projects-2ea44f?style=for-the-badge"></a>
-  <a href="https://github.com/Ark310/experience"><img src="https://img.shields.io/badge/💼_Experience-Work_History-6f42c1?style=for-the-badge"></a>
-  <a href="https://github.com/Ark310/portfolio/tree/main/certifications"><img src="https://img.shields.io/badge/📜_Certifications-44-blue?style=for-the-badge"></a>
-  <a href="https://www.linkedin.com/in/abdulraqeebkhatri"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:abdulraqeebkhatri310@gmail.com"><img src="https://img.shields.io/badge/Email-Say_Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://ark310.github.io"><img src="https://img.shields.io/badge/🌐_Interactive_Site-Explore-111111?style=for-the-badge" alt="🌐 Interactive Site-Explore"></a>
+  <a href="https://github.com/Ark310/portfolio"><img src="https://img.shields.io/badge/📂_Portfolio-32_Projects-2ea44f?style=for-the-badge" alt="📂 Portfolio-32 Projects"></a>
+  <a href="https://github.com/Ark310/experience"><img src="https://img.shields.io/badge/💼_Experience-Work_History-6f42c1?style=for-the-badge" alt="💼 Experience-Work History"></a>
+  <a href="https://github.com/Ark310/portfolio/tree/main/certifications"><img src="https://img.shields.io/badge/📜_Certifications-44-blue?style=for-the-badge" alt="📜 Certifications-44"></a>
+  <a href="https://www.linkedin.com/in/abdulraqeebkhatri"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn-Connect"></a>
+  <a href="mailto:abdulraqeebkhatri310@gmail.com"><img src="https://img.shields.io/badge/Email-Say_Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email-Say Hi"></a>
 </p>
 
 ---
