@@ -26,7 +26,7 @@ By day I keep people and systems running: Tier 1/2 support at Apple, 1,000+ SLA-
 
 ### 📊 By the numbers
 
-| 🎫 1,000+ | 👥 250+ | 📦 32 | 🔁 1,000+ | ✅ 3,400+ | 📜 44 |
+| 🎫 1,000+ | 👥 250+ | 📦 32 | 🔁 1,000+ | ✅ 3,500+ | 📜 44 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | SLA tickets managed | users supported | project repos | commits in 2026 | passing tests | credentials |
 
