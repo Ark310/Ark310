@@ -26,7 +26,7 @@ By day I keep people and systems running: Tier 1/2 support at Apple, 1,000+ SLA-
 
 ### 📊 By the numbers
 
-| 🎫 1,000+ | 👥 250+ | 📦 32 | 🔁 1,000+ | ✅ 3,500+ | 📜 44 |
+| 🎫 1,000+ | 👥 250+ | 📦 40 | 🔁 1,300+ | ✅ 6,800+ | 📜 44 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | SLA tickets managed | users supported | project repos | commits in 2026 | passing tests | credentials |
 
@@ -40,7 +40,7 @@ timeline
     2023 : Special Projects Assistant · York University IT : Training, SOPs, university-wide rollouts
     2024 : Specialist · Apple : Business Systems Coordinator · York University : CRM + VoIP rollouts, Power Automate
     2025 : Honours BA, Information Technology : IT Project Coordinator · fintech software company : 1,000+ SLA tickets, AI enablement
-    2026 : Technical Specialist · Apple : 32 repos shipped with Claude Code : Apple ACST · AZ-900 · PL-900
+    2026 : Technical Specialist · Apple : 40 repos shipped with Claude Code : A production compliance API (ClearScreen) : Apple ACST · AZ-900 · PL-900
 ```
 
 ---
@@ -48,32 +48,36 @@ timeline
 ### 🚀 Featured work
 
 <!-- showcase:featured:start -->
+**[ClearScreen](https://github.com/Ark310/clearscreen)** *(pseudonym)*: Production screening-alert API: deterministic match scoring, similar-case search and a per-record AI review fact-checked by Python, on AWS EC2 behind Cloudflare.  
+📈 In production with clients: repeat and clear non-match alerts are cleared automatically and everything uncertain goes to an analyst. 9 releases in 9 days.  
+`Python` · `FastAPI` · `SQL Server` · `AWS` · `Cloudflare`
+
+**[Enterprise Knowledge Platform](https://github.com/Ark310/enterprise-knowledge-platform)**: Verified ingestion → pgvector hybrid retrieval → an Assistant plus an independent Verifier with byte-exact citations, plus the design for portal, SSO and client-facing rollout.  
+📈 Answers are only published when every claim is backed by a cited excerpt; 20+ releases in two weeks, each with a verification ledger.  
+`.NET 10` · `Python` · `PostgreSQL + pgvector` · `Ollama` · `Codex`
+
+**[Reporting Tools Suite](https://github.com/Ark310/reporting-tools-suite)**: Four reporting tools merged into one PySide6 desktop app with a shared 2FA sign-in and a Nuitka + Inno Setup installer.  
+📈 One install and one sign-in instead of four, golden-tested to calculate exactly as the originals did.  
+`Python` · `PySide6` · `Playwright` · `Nuitka` · `Inno Setup`
+
 **[Knowledge Base Assistant](https://github.com/Ark310/knowledge-base-assistant)**: Scraper → markdown library → hybrid-RAG desktop chatbot with verified citations and an on-prem LLM option.  
 📈 One desktop assistant answers from both the help site and past ticket resolutions, with clickable citations that are verified before they are shown.  
 `Python` · `Playwright` · `ChromaDB` · `BM25/RRF` · `CrossEncoder`
 
-**[BLNS: Sanctions Screening RAG](https://github.com/Ark310/blns-sanctions-screening-rag)**: Offline FLAG / REVIEW / CLEAR adjudicator for sanctions-screening alerts: deterministic OFAC-style scoring plus RAG over past analyst decisions on an 8 GB GPU.  
-📈 Turns a manual queue into an advisory pipeline that recommends FLAG, REVIEW or CLEAR with cited precedents from about 1,271 historical analyst decisions. The analyst always decides.  
+**[BLNS: Sanctions Screening R&D](https://github.com/Ark310/blns-sanctions-screening-rag)** *(the research behind ClearScreen)*: fine-tune → RAG → deterministic gates → fact-checked AI review, with measured results at every step.  
+📈 Four months of measured experiments (0.27 s/row gates, 84% leave-one-out agreement, a 6-model bake-off) that became a production product.  
 `Python` · `Ollama` · `ChromaDB` · `FastAPI` · `.NET 8`
 
 **[Claude Sessions Tracker](https://github.com/Ark310/claude-sessions-tracker)**: Desktop dashboard for local Claude Code sessions: tokens, models, subagents and one-click session management.  
 📈 One screen shows every session with live token usage summed from the transcripts, never estimated.  
 `Python` · `CustomTkinter` · `Matplotlib` · `watchdog` · `SQLite`
 
-**[Report Downloader](https://github.com/Ark310/report-downloader)**: One-click month-end PDF/Excel dashboard exports for about 30 clients, plus an auto-built billing CSV.  
-📈 The whole month-end run happens unattended: pick clients, reports and month, press Start.  
-`Python` · `Playwright` · `Tkinter` · `openpyxl` · `PyInstaller`
-
-**[Incident Report Scraper](https://github.com/Ark310/incident-report-scraper)**: Scrapes a support portal's incidents into a change-tracked Excel workbook and an offline HTML dashboard with sentiment.  
-📈 One click turns about 340 incidents into trends, leaderboards, backlog age and sentiment.  
-`Python` · `Playwright` · `PySide6` · `openpyxl` · `VADER`
-
 **[Weekly Time Reports](https://github.com/Ark310/weekly-time-reports)**: A portal-driven desktop app that replaced a hand-maintained weekly timesheet workbook.  
 📈 Replaced the manual workbook with a one-click run that outputs Excel, PDF and a scheduled Outlook email.  
 `Python` · `PySide6` · `Playwright` · `openpyxl` · `Outlook`
 <!-- showcase:featured:end -->
 
-> 👉 **[All 32 projects, each with why I built it and its impact →](https://github.com/Ark310/portfolio#gallery)**
+> 👉 **[All 40 projects, each with why I built it and its impact →](https://github.com/Ark310/portfolio#gallery)**
 
 ---
 
@@ -96,6 +100,7 @@ timeline
 ![Codex](https://img.shields.io/badge/Codex-412991?style=flat-square&logo=openai&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama_/_Local_LLMs-000000?style=flat-square&logo=ollama&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F61?style=flat-square)
+![pgvector](https://img.shields.io/badge/PostgreSQL_+_pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Copilot](https://img.shields.io/badge/Microsoft_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white)
 ![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=flat-square&logo=powerautomate&logoColor=white)
 ![Power Platform](https://img.shields.io/badge/Power_Platform_(PL--900)-742774?style=flat-square&logo=powerapps&logoColor=white)
@@ -144,6 +149,7 @@ timeline
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Azure](https://img.shields.io/badge/Azure_(AZ--900)-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![NIST](https://img.shields.io/badge/NIST_CSF_2.0-1f3a5f?style=flat-square)
