@@ -48,7 +48,7 @@ timeline
 ### 🚀 Featured work
 
 <!-- showcase:featured:start -->
-**[ClearScreen](https://github.com/Ark310/clearscreen)** *(pseudonym)*: Production screening-alert API: deterministic match scoring, similar-case search and a per-record AI review fact-checked by Python, on AWS EC2 behind Cloudflare.  
+**[ClearScreen](https://github.com/Ark310/clearscreen)** *(pseudonym)*: The production-ready version of my BLNS sanctions-screening RAG R&D: a client-facing API with deterministic match scoring, similar-case search and a per-record AI review fact-checked by Python, on AWS EC2 behind Cloudflare.  
 📈 In production with clients: repeat and clear non-match alerts are cleared automatically and everything uncertain goes to an analyst. 9 releases in 9 days.  
 `Python` · `FastAPI` · `SQL Server` · `AWS` · `Cloudflare`
 
@@ -64,8 +64,8 @@ timeline
 📈 One desktop assistant answers from both the help site and past ticket resolutions, with clickable citations that are verified before they are shown.  
 `Python` · `Playwright` · `ChromaDB` · `BM25/RRF` · `CrossEncoder`
 
-**[BLNS: Sanctions Screening R&D](https://github.com/Ark310/blns-sanctions-screening-rag)** *(the research behind ClearScreen)*: fine-tune → RAG → deterministic gates → fact-checked AI review, with measured results at every step.  
-📈 Four months of measured experiments (0.27 s/row gates, 84% leave-one-out agreement, a 6-model bake-off) that became a production product.  
+**[BLNS: Sanctions Screening R&D](https://github.com/Ark310/blns-sanctions-screening-rag)** *(the RAG R&D that became ClearScreen)*: fine-tune → RAG → deterministic gates → fact-checked AI review, with measured results at every step.  
+📈 Four months of measured experiments (0.27 s/row gates, 84% leave-one-out agreement, a 6-model bake-off) that became ClearScreen, its production-ready version.  
 `Python` · `Ollama` · `ChromaDB` · `FastAPI` · `.NET 8`
 
 **[Claude Sessions Tracker](https://github.com/Ark310/claude-sessions-tracker)**: Desktop dashboard for local Claude Code sessions: tokens, models, subagents and one-click session management.  
